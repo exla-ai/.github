@@ -5,4 +5,4 @@
 2. Understand cuBlas and exactly why matmul is so optimized in h100s
 
 3. Try to improve ShiftAddLLM and make it faster
-   3.1 Try to see if this can be implemented in a way that AlhpaChip can use it??
+   1. Try to see if this can be implemented in a way that AlhpaChip can use it??
